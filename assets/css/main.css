@@ -281,7 +281,7 @@ a.logo:hover {
   .navigation,
   .social-links {
     display: block;
-    text-align: right;
+    text-align: left;
     width: 100%;
   }
 
