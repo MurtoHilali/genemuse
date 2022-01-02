@@ -2,7 +2,7 @@ title: genemuse # Shown in header on pages with full_logo: true
 short_logo: gm. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Turning genetic data into art.
-url: "https://murtohilali.github.io/ungenomic" # "https://ritijjain.github.io/pudhina-fresh" # Site base URL
+url: "https://murtohilali.github.io/genemuse" # "https://ritijjain.github.io/pudhina-fresh" # Site base URL
 
 author:
   name: Murto Hilali
