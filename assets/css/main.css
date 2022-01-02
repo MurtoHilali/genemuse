@@ -115,6 +115,7 @@ a.logo:hover {
   margin: 0px;
   margin-top: 6px;
   padding: 0px;
+  padding-inline-start: 0px;
   list-style-type: none;
 }
 
