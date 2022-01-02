@@ -92,6 +92,9 @@ a.logo:hover {
   display: block;
   text-decoration: none;
   
+  background: -webkit-linear-gradient(#1de1b4, #17459d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .menu {
