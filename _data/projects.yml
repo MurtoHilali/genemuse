@@ -1,6 +1,6 @@
 - name: Genecasso # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/1_-s0sxZ-8oLnqNzzLEBIdWQ.png # Optional image
   description_less: Turning genetic code into pointilism art. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>Creating visual art out of genetic data.</p> 
