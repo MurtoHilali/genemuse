@@ -92,7 +92,7 @@ a.logo:hover {
   display: block;
   text-decoration: none;
   
-  background: -webkit-linear-gradient(90deg, #1de1b4, #17459d);
+  background: -webkit-linear-gradient(45deg, #1de1b4, #17459d);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
